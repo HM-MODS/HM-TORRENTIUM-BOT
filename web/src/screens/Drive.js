@@ -17,7 +17,7 @@ export default function Drive() {
             </i>
           </Link>
         )}
-        HM TORRENTIUM Index
+        HM TORRENTIUM INDEX
       </h1>
       {!data && !error && <div className="loading-div" />}
       {!!error && <div style={{ color: "red" }}>{`${error}`}</div>}
