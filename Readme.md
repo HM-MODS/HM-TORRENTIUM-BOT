@@ -1,4 +1,4 @@
-# Torrent all-in-one bot
+# HM TORRENTIUM BOT
 
 Lorem ipsum i am too lazy figure what it does yourself
 
