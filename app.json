@@ -1,7 +1,8 @@
 {
-  "name": "torrent-aio-bot",
-  "description": "All in one bot for torrenting",
-  "repository": "https://github.com/patheticGeek/torrent-aio-bot",
+  "name": "HM TORRENTIUM",
+  "description": "A POWERFULL TORRENT API",
+  "logo": "https://telegra.ph/file/769a0cf38dce039b3f66d.png",
+  "repository": "https://github.com/HM-MODS/HM-TORRENTIUM-BOT",
   "keywords": ["node", "express", "bot", "torrent", "automation"],
   "builpacks": [
     { "url": "heroku/nodejs" },
